@@ -1,4 +1,4 @@
-# CSE57
+# Density Estimation and Classification
 In this part, you need to first perform parameter estimation for a given dataset (which is a subset from the MNIST dataset). The MNIST dataset contains 70,000 images of handwritten digits, divided into 60,000 training images and 10,000 testing images. We use only images for digit “7” and digit “8” in this question.
 
 Therefore, we have the following statistics for the given dataset:
